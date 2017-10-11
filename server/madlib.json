@@ -1,0 +1,12 @@
+
+    {
+    "name": ["Jesse", "Stefano", "Alexander", "Chris", "Kay", "Ana", "Benjamin", "Huy", "Jeremy", "Mark", "Mason", "Nick", "Kevin", "Tyler", "Dante", "Brant", "Corry", "Brandon", "Cache", "Bridgette", "Jay" ],
+
+    "type": ["short sword", "long sword", "broad sword", "mace", "claymore", "bastard sword", "spear", "harpoon", "dagger", "flail", "staff","katana", "brass knuckles", "bat", "hammer", "spoon", "fork", "knife", "cross bow", "shotgun", "pistol", "rocket launcher"],
+    
+    "durability": ["rusty", "broken", "crude", "worn", "dull", "bent", "sharp", "fine", "divine", "enchanted", "cursed", "scarred", "flamming", "old", "clean", "cold", "dirty", ""],
+    
+    "container": ["in a wooden box", "in a small chest", "in a medium chest", "in a golden chest", "on the ground", "in a hole", "in your pocket", "on a plane", "up in the air", "under the bed"]
+ }
+    
+ 
